@@ -1,4 +1,4 @@
-👀 Python, Java, C++, Swift, SwiftUI, UIKit, JavaScript, HTML/CSS, PyTorch, Go 
+👀 Python, Java, C++, Swift, SwiftUI, UIKit, JavaScript, HTML/CSS, PyTorch (RNN/CNN/SVM), Go 
 
 🌱 TensorFlow, QisKit
 
